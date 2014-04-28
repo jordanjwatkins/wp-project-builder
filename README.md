@@ -2,7 +2,9 @@
 
 **Automates Local WordPress Project Setup**
 
-I created this small PHP application to automate local setup and installation of WordPress projects for me and my team.
+
+
+I created this small PHP application to automate local setup and installation of WordPress projects for me and my team. 
 
 - Checks for updates and downloads the most recent version of WordPress, plugins and Patch Roots (my starting theme based on the [Roots](http://roots.io/) theme)
 - Creates project folders in specified directory
@@ -10,6 +12,8 @@ I created this small PHP application to automate local setup and installation of
 - Optionally installs WordPress with a few setting tweaks
 - Optionally installs the most recent version of Patch Roots and brands it to match the current project
 - Optionally installs selected plugins
+
+**[Demo](http://jordanjwatkins.com/wp-project-builder/)**
 
 ##Install
 
